@@ -403,3 +403,27 @@ main .content-data .chart::-webkit-scrollbar {
     display: none;
   }
 }
+
+.material-icons{
+  margin-right: 5px;
+}
+
+.col-lg-4 label{
+  font-family: Montserrat-Bold;
+  font-size: 15px;
+  line-height: 1.5;
+  color: black;
+  text-transform: uppercase;
+}
+
+.page-item.active .page-link{
+  top: 110px;
+  left: 335px;
+
+}
+
+.buttons{
+  display: flex;
+  width: 80%;
+  margin: 2rem;
+}
