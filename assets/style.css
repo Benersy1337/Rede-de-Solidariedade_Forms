@@ -424,6 +424,5 @@ main .content-data .chart::-webkit-scrollbar {
 
 .buttons{
   display: flex;
-  width: 80%;
-  margin: 2rem;
+  margin-bottom: 2rem;
 }
